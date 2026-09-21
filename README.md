@@ -1,13 +1,12 @@
 <h1 align="center">Bernardo de Almeida Santos</h1>
 <p align="center"><strong>Estudante de Engenharia de Software — Pesquisa em Agentes de Inteligência Artificial</strong></p>
 
-<p align="center">
-  <a href="mailto:bernardoalmeidasantos2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/bê-almeida">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+<p align="center"> 
+  <a href="mailto:bernardoalmeidasantos2@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> 
+  </a> <a href="https://linkedin.com/in/bê-almeida"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> 
+  </a> 
 </p>
 
 ---
