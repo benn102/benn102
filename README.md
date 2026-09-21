@@ -1,41 +1,41 @@
-# Olá, eu sou o Bernardo! 👋 <!--[cite: 1, 2] -->
+<h1 align="center">Olá, eu sou o Bernardo 👋</h1>
+<p align="center">Estudante de Engenharia de Software (UDESC) | Pesquisa em Agentes de IA</p>
 
-### Desenvolvedor Back-end & Pesquisador em Inteligência Artificial
-
-Sou estudante de Engenharia de Software na UDESC e apaixonado por resolver problemas complexos através de código. <!--[cite: 1, 2] --> Atualmente, divido meu foco entre o desenvolvimento de sistemas robustos no back-end e a pesquisa acadêmica envolvendo IA e simulações.
-
-## 👨‍💻 Sobre Mim
-
-- 🎓 Graduando em Engenharia de Software pela **UDESC** (2026 - Atual). <!--[cite: 1, 2] -->
-- 🔬 Líder de projeto de iniciação científica focado no desenvolvimento e treinamento de **agentes de Inteligência Artificial**. <!--[cite: 1, 2] -->
-- 📝 Autor de artigo acadêmico sobre agentes de IA espaciais (aplicando Q-Learning e Equações de Bellman em NetLogo), apresentado na conferência **WESAAC/BRACIS**. <!--[cite: 1, 2] -->
-- 💻 Focado em desenvolvimento Back-end (Python, FastAPI, SQLAlchemy, C e Java) e na aplicação de boas práticas de Engenharia de Software (OOP, testes automatizados e alocação dinâmica de memória). <!--[cite: 1, 2] -->
-
-## 🚀 Tecnologias e Ferramentas
-
-**Linguagens & Frameworks:**
-- Python (FastAPI, SQLAlchemy) | Java | C | SQL | JavaScript | HTML5 & CSS3 <!--[cite: 1, 2] -->
-
-**Conhecimentos & Práticas:**
-- Estruturas de Dados | Algoritmos | Orientação a Objetos | Git & GitHub <!--[cite: 1, 2] -->
-- Modelagem Baseada em Agentes | Q-Learning (NetLogo)
-
-## 📚 Formação Complementar
-
-- **CS50x: Introduction to Computer Science** - Harvard University (2025) <!--[cite: 1, 2] -->
-- **Ciências da Computação com Python** - freeCodeCamp.org (2025) <!--[cite: 1, 2] -->
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=benn102&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Bernardo" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benn102&layout=compact&theme=radical&hide_border=true" alt="Top Linguagens" height="150"/>
+<p align="center">
+  <a href="mailto:bernardoalmeidasantos2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/bernardo-almeida-santos">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-## 📫 Como me encontrar
-
-- **LinkedIn:** [bernardo-almeida-santos](https://www.linkedin.com/in/bernardo-almeida-santos) <!--[cite: 1] -->
-- **Email:** bernardoalmeidasantos2@gmail.com <!--[cite: 1, 2] -->
-
 ---
-⭐️ *Deixe um star se algum dos meus projetos te ajudou!*
+
+### 🧠 Sobre mim
+
+- 🎓 Cursando **Engenharia de Software** na **UDESC** (2026 – atual)
+- 🔬 **Líder** de projeto de Iniciação Científica sobre **desenvolvimento e treinamento de Agentes de Inteligência Artificial**
+- 📄 Autor de artigo acadêmico apresentado na **WESAAC/BRACIS** — [link do artigo, quando disponível]
+- 🏫 Formação intensiva em **CS50x (Harvard)** e **Ciências da Computação com Python (freeCodeCamp)**
+- 🌱 Aprofundando conhecimentos em estruturas de dados, algoritmos e desenvolvimento back-end
+- 💬 Fale comigo sobre Python, agentes de IA, ciência de dados ou desenvolvimento web
+
+### 🛠️ Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,mysql,git,github" />
+</p>
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=benn102&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benn102&layout=compact&hide_border=true" />
+</p>
+
+### 📫 Contato
+
+- 📧 bernardoalmeidasantos2@gmail.com
+- 💼 [linkedin.com/in/bernardo-almeida-santos](https://linkedin.com/in/bernardo-almeida-santos)
+- 🐙 [github.com/benn102](https://github.com/benn102)
